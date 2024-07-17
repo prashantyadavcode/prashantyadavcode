@@ -1,5 +1,5 @@
 # About Me:
-I'm 20 y.o AI & ML Engineer. My interests span across AI, ML and web development. Constantly try to expand my knowledge in this fields.<br>
+I'm 20 y.o AI & ML Engineer. My interests span across AI, ML and web development. Constantly try to expand my knowledge in this fields<br>
 
 
 ## 🌐 Socials:
